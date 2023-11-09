@@ -1,1 +1,2 @@
-# fearandroid
+# fear-proxy
+
